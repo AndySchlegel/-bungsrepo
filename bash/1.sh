@@ -2,7 +2,7 @@
 NAME="Andy"
 echo "Hallo Freunde $NAME"
 NAME="Carl" 
-echo "Hallo $NAME"
+echo "Hallo du, $NAME"
 A=4 
 B=7
 echo $A $B
